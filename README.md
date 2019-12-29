@@ -1,0 +1,2 @@
+# Datascience-api-practice-itunes-
+1) use the search API to fetch the data for the 'Grateful Dead' (2 points) 2) confirm that you get a '200 response' (2 points) 3) print the names of all of the Grateful Dead songs returned (3 points) 4) create a function that: (5 points)  takes in the data retrieved from the API returns a dictionary that has the year the songs were released and the respective number of songs released that year as the value. It will look something like {1971: 3, 1980: 4, ... }
